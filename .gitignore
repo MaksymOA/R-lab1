@@ -1,0 +1,9 @@
+/docs/
+/outputs/
+/Rplots.pdf
+/notebooks/lab01_cleaning.R
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
